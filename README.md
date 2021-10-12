@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tyler-chu
-- 👀 I’m interested in both software and hardware aspects of engineering. I am looking forward to eventually learning Linux through Red Hat Enterprise in the upcoming months. 
+- 👀 I’m interested in both software and hardware aspects of engineering. In addition, I am open to internship and job opportunities! 
 - 🌱 I’m currently striving to recieve a Bachelor of Science in Computer Engineering at San Diego State University.
 - 📫 How to reach me, https://www.linkedin.com/in/tyler-chu-779531207/
 
